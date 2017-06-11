@@ -1,1 +1,1 @@
-Open sourced 2017allyearsbooklist.xlsx from http://www.education.vic.gov.au/about/events/prc/Pages/booklist.aspx
+Open sourced [2017allyearsbooklist.xlsx](http://www.education.vic.gov.au/Documents/about/events/prc/2017allyearsbooklist.xlsx) from http://www.education.vic.gov.au/about/events/prc/Pages/booklist.aspx
